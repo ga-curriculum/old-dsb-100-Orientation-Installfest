@@ -158,7 +158,7 @@ The output should be something like this (a somewhat different version number is
 git version 2.26.1
 ```
 
-Use the following commands to provide git with your name and email. Make sure to use the same email address that you registered at https://git.generalassemb.ly:
+Use the following commands to provide git with your name and email. Make sure to use the email address associated with your GitHub account:
 ```bash
 git config --global user.name "Your Name"  
 git config --global user.email "your.name@example.com"
