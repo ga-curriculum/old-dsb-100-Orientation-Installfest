@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science Immersive "Installfest"
+# <picture><img src="https://ga-curriculum.github.io/universal-resources-internal/ga-logos/ga-red-cog-128x128.png" alt="" height="48" align="absmiddle"></picture> Data Science Immersive "Installfest"
 
 * [DSI Computer Setup](#dsisetup)
 * [Anaconda + Python Configuration](#conda)
@@ -158,7 +158,7 @@ The output should be something like this (a somewhat different version number is
 git version 2.26.1
 ```
 
-Use the following commands to provide git with your name and email. Make sure to use the same email address that you registered at https://git.generalassemb.ly:
+Use the following commands to provide git with your name and email. Make sure to use the email address associated with your GitHub account:
 ```bash
 git config --global user.name "Your Name"  
 git config --global user.email "your.name@example.com"
